@@ -6,8 +6,8 @@
         <PathPlannerLayer>Water</PathPlannerLayer>
         <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
         <TurnAroundRadius>6</TurnAroundRadius>
-        <Acceleration>2500</Acceleration>
-        <Deceleration>5000</Deceleration>
+        <Acceleration>1500</Acceleration>
+        <Deceleration>3000</Deceleration>
         <TurnRadius>6</TurnRadius>
         <TurnSpeed>27500</TurnSpeed>
         <TurnDeceleration>0</TurnDeceleration>
