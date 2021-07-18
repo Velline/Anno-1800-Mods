@@ -6,8 +6,8 @@
         <PathPlannerLayer>Water</PathPlannerLayer>
         <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
         <TurnAroundRadius>6</TurnAroundRadius>
-        <Acceleration>1500</Acceleration>
-        <Deceleration>3000</Deceleration>
+        <Acceleration>2500</Acceleration>
+        <Deceleration>5000</Deceleration>
         <TurnRadius>6</TurnRadius>
         <TurnSpeed>27500</TurnSpeed>
         <TurnDeceleration>0</TurnDeceleration>
@@ -19,7 +19,7 @@
         <CurveSegmentDensity>High</CurveSegmentDensity>
     </ModOp>
     <ModOp Type="add" GUID='101121' Path="/Values/Walking">
-        <ForwardSpeed>300</ForwardSpeed>
+        <ForwardSpeed>100</ForwardSpeed>
         <CargoFullFactor>1</CargoFullFactor>
         <MinSlowdownFactor>0</MinSlowdownFactor>
     </ModOp>
@@ -68,19 +68,19 @@
     </ModOp>
     <!-- Great Eastern-->
     <ModOp Type="merge" GUID='118718' Path="/Values/Walking">
-        <ForwardSpeed>100</ForwardSpeed>
+        <ForwardSpeed>75</ForwardSpeed>
         <Acceleration>1000</Acceleration>
         <Deceleration>2000</Deceleration>
     </ModOp>
     <!-- Oil Tanker-->
     <ModOp Type="merge" GUID='100853' Path="/Values/Walking">
-        <ForwardSpeed>100</ForwardSpeed>
+        <ForwardSpeed>75</ForwardSpeed>
         <Acceleration>1000</Acceleration>
         <Deceleration>2000</Deceleration>
     </ModOp>
     <!-- Battle Cruiser-->
     <ModOp Type="merge" GUID='100442' Path="/Values/Walking">
-        <ForwardSpeed>100</ForwardSpeed>
+        <ForwardSpeed>75</ForwardSpeed>
         <Acceleration>1000</Acceleration>
         <Deceleration>2000</Deceleration>
     </ModOp>
@@ -114,7 +114,7 @@
     </ModOp>
     <!-- World Class Steamer Deep Blue-->
     <ModOp Type="merge" GUID='132404' Path="/Values/Walking">
-        <ForwardSpeed>100</ForwardSpeed>
+        <ForwardSpeed>75</ForwardSpeed>
         <Acceleration>1000</Acceleration>
         <Deceleration>2000</Deceleration>
     </ModOp>
