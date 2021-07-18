@@ -1,0 +1,180 @@
+<ModOps>
+    <!-- Flagship-->
+    <ModOp Type="merge" GUID='101121' Path="/Values/Walking">
+        <ReservationLength>9</ReservationLength>
+        <ReservationWidth>5</ReservationWidth>
+        <PathPlannerLayer>Water</PathPlannerLayer>
+        <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+        <TurnAroundRadius>6</TurnAroundRadius>
+        <Acceleration>2500</Acceleration>
+        <Deceleration>5000</Deceleration>
+        <TurnRadius>6</TurnRadius>
+        <TurnSpeed>27500</TurnSpeed>
+        <TurnDeceleration>0</TurnDeceleration>
+        <TurnMovement>0</TurnMovement>
+        <LeaningMaxAngle>-20</LeaningMaxAngle>
+        <WindSlowdownEffectOnTurningSpeed>0</WindSlowdownEffectOnTurningSpeed>
+        <WindMaxSpeedupFactor>2</WindMaxSpeedupFactor>
+        <WindSpeedupEffectOnTurningSpeed>2</WindSpeedupEffectOnTurningSpeed>
+        <CurveSegmentDensity>High</CurveSegmentDensity>
+    </ModOp>
+    <ModOp Type="add" GUID='101121' Path="/Values/Walking">
+        <ForwardSpeed>300</ForwardSpeed>
+        <CargoFullFactor>1</CargoFullFactor>
+        <MinSlowdownFactor>0</MinSlowdownFactor>
+    </ModOp>
+    <!-- Clipper-->
+    <ModOp Type="merge" GUID='100440,100439,100441,102430,102431,102421,102419,102425,102428,102427,80018,80029,114140' Path="/Values/Walking">
+        <ReservationLength>9</ReservationLength>
+        <ReservationWidth>5</ReservationWidth>
+        <PathPlannerLayer>Water</PathPlannerLayer>
+        <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+        <TurnAroundRadius>6</TurnAroundRadius>
+        <Acceleration>500</Acceleration>
+        <Deceleration>1000</Deceleration>
+        <TurnRadius>6</TurnRadius>
+        <TurnSpeed>5500</TurnSpeed>
+        <TurnDeceleration>0</TurnDeceleration>
+        <TurnMovement>0</TurnMovement>
+        <LeaningMaxAngle>-20</LeaningMaxAngle>
+        <ForwardSpeed>50</ForwardSpeed>
+        <WindMinSlowdownFactor>0</WindMinSlowdownFactor>
+        <WindSlowdownEffectOnTurningSpeed>0</WindSlowdownEffectOnTurningSpeed>
+        <WindMaxSpeedupFactor>4</WindMaxSpeedupFactor>
+        <WindSpeedupEffectOnTurningSpeed>4</WindSpeedupEffectOnTurningSpeed>
+        <CurveSegmentDensity>High</CurveSegmentDensity>
+    </ModOp>
+    <!-- Extravaganza Steamer-->
+    <ModOp Type="merge" GUID='102455' Path="/Values/Walking">
+        <ShortenSailsAfter>0</ShortenSailsAfter>
+        <ReservationLength>16</ReservationLength>
+        <ReservationWidth>6</ReservationWidth>
+        <PathPlannerLayer>Water</PathPlannerLayer>
+        <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+        <TurnAroundRadius>8</TurnAroundRadius>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+        <TurnRadius>8</TurnRadius>
+        <TurnSpeedInPlace>11000</TurnSpeedInPlace>
+        <TurnDeceleration>0</TurnDeceleration>
+        <TurnMovement>0</TurnMovement>
+        <LeaningMaxAngle>-10</LeaningMaxAngle>
+        <ForwardSpeed>100</ForwardSpeed>
+        <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+        <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+        <CargoFullFactor>1</CargoFullFactor>
+        <MinSlowdownFactor>0</MinSlowdownFactor>
+        <CurveSegmentDensity>High</CurveSegmentDensity>
+    </ModOp>
+    <!-- Great Eastern-->
+    <ModOp Type="merge" GUID='118718' Path="/Values/Walking">
+        <ForwardSpeed>100</ForwardSpeed>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+    </ModOp>
+    <!-- Oil Tanker-->
+    <ModOp Type="merge" GUID='100853' Path="/Values/Walking">
+        <ForwardSpeed>100</ForwardSpeed>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+    </ModOp>
+    <!-- Battle Cruiser-->
+    <ModOp Type="merge" GUID='100442' Path="/Values/Walking">
+        <ForwardSpeed>100</ForwardSpeed>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+    </ModOp>
+    <!-- Cargo Ship-->
+    <ModOp Type="merge" GUID='1010062,100443,100853' Path="/Values/Walking">
+        <ShortenSailsAfter>0</ShortenSailsAfter>
+        <ReservationLength>16</ReservationLength>
+        <ReservationWidth>6</ReservationWidth>
+        <PathPlannerLayer>Water</PathPlannerLayer>
+        <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+        <TurnAroundRadius>8</TurnAroundRadius>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+        <TurnRadius>8</TurnRadius>
+        <TurnSpeedInPlace>11000</TurnSpeedInPlace>
+        <TurnDeceleration>0</TurnDeceleration>
+        <TurnMovement>0</TurnMovement>
+        <LeaningMaxAngle>-10</LeaningMaxAngle>
+        <ForwardSpeed>100</ForwardSpeed>
+        <WindMinSlowdownFactor>0</WindMinSlowdownFactor>
+        <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+        <CargoFullFactor>1</CargoFullFactor>
+        <MinSlowdownFactor>0</MinSlowdownFactor>
+        <CurveSegmentDensity>High</CurveSegmentDensity>
+    </ModOp>
+    <!-- Airship-->
+    <ModOp Type="merge" GUID='114166' Path="/Values/Walking">
+        <ForwardSpeed>10000</ForwardSpeed>
+        <Acceleration>100000</Acceleration>
+        <Deceleration>200000</Deceleration>
+    </ModOp>
+    <!-- World Class Steamer Deep Blue-->
+    <ModOp Type="merge" GUID='132404' Path="/Values/Walking">
+        <ForwardSpeed>100</ForwardSpeed>
+        <Acceleration>1000</Acceleration>
+        <Deceleration>2000</Deceleration>
+    </ModOp>
+    <!-- Flagship -->
+    <ModOp Type="merge" GUID='101121' Path="/Values/ItemContainer">
+        <SocketCount>8</SocketCount>
+        <SlotCount>8</SlotCount>
+    </ModOp>
+    <!-- Extravaganza Steamer-->
+    <ModOp Type="merge" GUID='102455' Path="/Values/ItemContainer">
+        <SocketCount>8</SocketCount>
+        <SlotCount>8</SlotCount>
+    </ModOp>
+    <!-- Battle Cruiser -->
+    <ModOp Type="merge" GUID='100442' Path="/Values/ItemContainer">
+        <SocketCount>6</SocketCount>
+        <SlotCount>6</SlotCount>
+    </ModOp>
+    <!-- Collier/Cargo ship -->
+    <ModOp Type="merge" GUID='100440,100439,100441,102430,102431,102421,102419,102425,102428,102427,114166,80018,80029,114140' Path="/Values/ItemContainer">
+        <SocketCount>4</SocketCount>
+        <SlotCount>6</SlotCount>
+    </ModOp>
+    <!-- The Great Eastern -->
+    <ModOp Type="merge" GUID='101373' Path="/Values/ItemContainer">
+        <SocketCount>4</SocketCount>
+        <SlotCount>8</SlotCount>
+    </ModOp>
+    <!-- Deep Blue-->
+    <ModOp Type="merge" GUID='132404' Path="/Values/ItemContainer">
+        <SocketCount>8</SocketCount>
+        <SlotCount>8</SlotCount>
+    </ModOp>
+    <ModOp Type="add" GUID="101121" Path="/Values/ItemContainer">
+        <StackLimit>1000</StackLimit>
+    </ModOp>
+    <!-- Increases the Cargolimit for Ship of the Line, Frigate, Clipper, Battlecruiser and all Trader/Pirate variants -->
+    <ModOp Type="add" GUID="100440,100439,100441,100442,102430,102431,102421,102419,102425,102428,102427,114166" Path="/Values/ItemContainer">
+        <StackLimit>1000</StackLimit>
+    </ModOp>
+    <!-- Increases the Cargolimit of the Freighter, Extravaganza and the Great Eastern -->
+    <ModOp Type="add" GUID='1010062,102455,118718' Path="/Values/ItemContainer">
+        <StackLimit>10000</StackLimit>
+    </ModOp>
+    <!-- Increases the Cargolimit if the Oil Tanker -->
+    <ModOp Type="merge" GUID='100853' Path="/Values/ItemContainer/StackLimit">
+        <StackLimit>50000</StackLimit>
+    </ModOp>
+    <!-- Traderoute settings to reflect the change above -->
+    <ModOp Type="merge" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/MaxGoodTransferAmount">
+        <MaxGoodTransferAmount>10000</MaxGoodTransferAmount>
+    </ModOp>
+    <ModOp Type="merge" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/DefaultGoodTransferAmount">
+        <DefaultGoodTransferAmount>10000</DefaultGoodTransferAmount>
+    </ModOp>
+    <!-- Traderoute settings to reflect the change above -->
+    <ModOp Type="merge" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/DefaultGoodTransferAmount">
+        <DefaultGoodTransferAmount>50000</DefaultGoodTransferAmount>
+    </ModOp>
+    <ModOp Type="merge" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/MaxGoodTransferAmount">
+        <MaxGoodTransferAmount>50000</MaxGoodTransferAmount>
+    </ModOp>
+</ModOps>

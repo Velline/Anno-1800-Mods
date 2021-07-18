@@ -1,0 +1,7 @@
+<ModOps>
+    <!-- Time it takes to get new residents-->
+    <ModOp Type="merge" Path="//MoveInOut">
+        <MoveInInterval>-500</MoveInInterval>
+        <MoveOutInterval>300</MoveOutInterval>
+    </ModOp>
+</ModOps>

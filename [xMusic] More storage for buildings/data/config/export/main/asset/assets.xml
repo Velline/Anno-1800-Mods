@@ -1,0 +1,16 @@
+<ModOps>
+    <ModOp Type="replace" Path="//FactoryOutputs/Item/StorageAmount">
+        <StorageAmount>500</StorageAmount>
+    </ModOp>
+    <ModOp Type="merge" path="//Transporter7">
+        <TransporterCapacity>500</TransporterCapacity>
+        <ProcessingTimes>
+            <LoadingTime>0.00000000001</LoadingTime>
+            <UnloadingTime>0.00000000001</UnloadingTime>
+        </ProcessingTimes>
+        <TransporterSpeed>500</TransporterSpeed>
+    </ModOp>
+    <ModOp Type="add" Path="//Transporter7">
+        <TransporterCapacity>500</TransporterCapacity>
+    </ModOp>
+</ModOps>

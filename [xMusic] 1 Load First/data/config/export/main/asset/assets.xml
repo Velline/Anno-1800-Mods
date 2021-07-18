@@ -1,0 +1,77 @@
+<ModOps>
+    <ModOp Type="addNextSibling" GUID='191637'>
+        <Asset>
+            <Template>RewardPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>333666999</GUID>
+                    <Name>Eddy Pool</Name>
+                </Standard>
+                <RewardPool>
+                    <ItemsPool>
+                        <Item>
+                            <ItemLink>1010223</ItemLink>
+                            <MinAmount>100</MinAmount>
+                            <MaxAmount>100</MaxAmount>
+                            <Weight>50</Weight>
+                        </Item>
+                        <Item>
+                            <ItemLink>1010223</ItemLink>
+                            <MinAmount>200</MinAmount>
+                            <MaxAmount>200</MaxAmount>
+                            <Weight>50</Weight>
+                        </Item>
+                    </ItemsPool>
+                    <GenerateUniqueRewards>0</GenerateUniqueRewards>
+                </RewardPool>
+                <Locked />
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='192021'>
+        <Asset>
+            <Template>TownhallBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>333667000</GUID>
+                    <Name>Netflix Buff</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/netflix.png</IconFilename>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>190762</GUID>
+                        </Item>
+                    </EffectTargets>
+                </ItemEffect>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Netflix Buff</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>333667001</LineID>
+                </Text>
+                <BuildingUpgrade />
+                <Buff />
+                <PopulationUpgrade />
+                <ResidenceUpgrade>
+                    <WorkforceModifierInPercent>100</WorkforceModifierInPercent>
+                </ResidenceUpgrade>
+                <IncidentInfectableUpgrade>
+                    <IncidentRiotIncreaseUpgrade>
+                        <Value>10</Value>
+                    </IncidentRiotIncreaseUpgrade>
+                </IncidentInfectableUpgrade>
+                <CultureUpgrade />
+                <InfluenceSourceUpgrade />
+                <WarehouseUpgrade />
+                <DistributionUpgrade />
+                <ItemContainerUpgrade />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

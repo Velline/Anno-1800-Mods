@@ -1,0 +1,6 @@
+<ModOps>
+    <ModOp Type="merge" Path="//PublicService">
+        <FullSatisfactionDistance>100</FullSatisfactionDistance>
+        <NoSatisfactionDistance>100</NoSatisfactionDistance>
+    </ModOp>
+</ModOps>

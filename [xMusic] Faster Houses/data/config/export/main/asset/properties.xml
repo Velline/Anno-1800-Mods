@@ -1,0 +1,21 @@
+<ModOps>
+        <ModOp Type="merge" Path="//PopulationLevel7">
+          <MoveInOut>
+            <MoveInInterval>-500</MoveInInterval>
+            <MoveOutInterval>300</MoveOutInterval>
+            <UpgradeThreshold>0.9</UpgradeThreshold>
+          </MoveInOut>
+          <Satisfaction>
+            <TotalPointCount>3</TotalPointCount>
+            <TimeInterval>1</TimeInterval>
+          </Satisfaction>
+          <ConsumptionNeedSatisfaction>
+            <TotalPointCount>20</TotalPointCount>
+            <TimeMultiplier>3</TimeMultiplier>
+          </ConsumptionNeedSatisfaction>
+          <PublicNeedSatisfaction>
+            <TotalPointCount>20</TotalPointCount>
+            <TimeMultiplier>0.1</TimeMultiplier>
+          </PublicNeedSatisfaction>
+    </ModOp>
+</ModOps>

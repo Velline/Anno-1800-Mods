@@ -1,0 +1,9 @@
+<ModOps>
+    <ModOp Type="merge" Path="//FreeSpaceSpawn">
+        <SearchDistanceScale>20</SearchDistanceScale>
+    </ModOp>
+    <ModOp Type="merge" Path="//IncidentResolverUnit">
+        <ResolverOperatingDistance>1200000</ResolverOperatingDistance>
+        <ResolverMovementSpeed>2</ResolverMovementSpeed>
+    </ModOp>
+</ModOps>

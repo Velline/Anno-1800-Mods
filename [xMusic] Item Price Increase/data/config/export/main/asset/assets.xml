@@ -1,0 +1,6 @@
+<ModOps>
+    <!-- Trade Price Items-->
+    <ModOp Type="merge" GUID='191623,193188,192444,191620,192008,191991,191626,111128,191621,191625,191992,192012,191622,192007' Path="/Values/Item">
+        <TradePrice>20000000</TradePrice>
+    </ModOp>
+</ModOps>

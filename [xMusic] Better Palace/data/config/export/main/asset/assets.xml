@@ -1,0 +1,19 @@
+<ModOps>
+    <!-- Increased Palace Modules-->
+    <ModOp Type="merge" GUID='249947' Path="/Values/Palace">
+        <AdditionalModulesForEachAdditionalCompanyLevelHigherMax>50</AdditionalModulesForEachAdditionalCompanyLevelHigherMax>
+        <ModulesForCompanyLevelSetup>
+            <Item>
+                <AdditionalModuleCountForThisCompanyLevel>50</AdditionalModuleCountForThisCompanyLevel>
+            </Item>
+            <Item>
+                <CompanyLevel>35</CompanyLevel>
+                <AdditionalModuleCountForThisCompanyLevel>50</AdditionalModuleCountForThisCompanyLevel>
+            </Item>
+        </ModulesForCompanyLevelSetup>
+    </ModOp>
+    <!-- Palace Wings By Radius-->
+    <ModOp Type="add" GUID ='249947' Path="/Values/ModuleOwner">
+        <ModuleBuildRadius>300</ModuleBuildRadius>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,239 @@
+<ModOps>
+    <!-- Trader Item Changes-->
+    <ModOp Type="merge" GUID='45' Path="/Values/Trader/Progression/*[self::EarlyGame or self::EarlyMidGame or self::MidGame or self::LateMidGame or self::LateGame or self::EndGame]/GoodsProduction">
+        <Item>
+            <Good>1010196</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+        <Item>
+            <Good>1010205</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+        <Item>
+            <Good>1010218</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+        <Item>
+            <Good>1010207</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+        <Item>
+            <Good>1010202</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+        <Item>
+            <Good>1010210</Good>
+            <ProductionPerMinute>5000</ProductionPerMinute>
+        </Item>
+    </ModOp>
+    <ModOp Type="merge" GUID='45' Path="/Values/Trader/Progression/*[self::EarlyGame or self::EarlyMidGame or self::MidGame or self::LateMidGame or self::LateGame or self::EndGame]/OfferingGoods">
+        <Item>
+            <GoodSets>
+                <Item>
+                    <Good>1010196</Good>
+                </Item>
+                <Item>
+                    <Good>1010205</Good>
+                </Item>
+                <Item>
+                    <Good>1010218</Good>
+                </Item>
+                <Item>
+                    <Good>1010207</Good>
+                </Item>
+                <Item>
+                    <Good>1010202</Good>
+                </Item>
+                <Item>
+                    <Good>1010210</Good>
+                </Item>
+            </GoodSets>
+        </Item>
+    </ModOp>
+    <!-- Production Per Minute Traders-->
+    <ModOp Type="merge" Path="//GoodsProduction/Item">
+        <ProductionPerMinute>5000</ProductionPerMinute>
+    </ModOp>
+    <!-- Passive Trades-->
+    <ModOp Type="merge" Path="//ActiveTrade/*[self::EarlyGame or self::EarlyMidGame or self::MidGame or self::LateMidGame or self::LateGame or self::EndGame]">
+            <BuyBudget>50000000</BuyBudget>
+            <SellBudget>50000000</SellBudget>
+    </ModOp>
+    <!-- Third Party Trader Storage-->
+    <ModOp Type="merge" GUID='100680,100681,100682,100683,100685,100686,101117,116035,119409,119425,131065' Path="/Values/Warehouse/WarehouseStorage">
+        <StorageMax>50000</StorageMax>
+    </ModOp>
+    <!-- Third Party Trader Loading Speed-->
+    <ModOp Type="merge" GUID='100680,100681,100682,100683,100685,100686,101117,116035,119409,119425,131065' Path="/Values/LoadingPier">
+        <LoadingSpeed>200</LoadingSpeed>
+    </ModOp>
+    <!-- Price fixes-->
+    <!-- Timber-->
+    <ModOp Type="merge" GUID='1010196' Path="//Product">
+        <BasePrice>10</BasePrice>
+    </ModOp>
+    <!-- Bricks-->
+    <ModOp Type="merge" GUID='1010205' Path="//Product">
+        <BasePrice>50</BasePrice>
+    </ModOp>
+    <!-- Steel Beams-->
+    <ModOp Type="merge" GUID='1010218' Path="//Product">
+        <BasePrice>150</BasePrice>
+    </ModOp>
+    <!-- Windows-->
+    <ModOp Type="merge" GUID='1010207' Path="//Product">
+        <BasePrice>856</BasePrice>
+    </ModOp>
+    <!-- Reinforced Concrete-->
+    <ModOp Type="merge" GUID='1010202' Path="//Product">
+        <BasePrice>1320</BasePrice>
+    </ModOp>
+    <!-- Sails-->
+    <ModOp Type="merge" GUID='1010210' Path="//Product">
+        <BasePrice>86</BasePrice>
+    </ModOp>
+    <!-- Pearls-->
+    <ModOp Type="merge" GUID='1010256' Path="//Product">
+        <BasePrice>76</BasePrice>
+    </ModOp>
+    <!-- Cigars-->
+    <ModOp Type="merge" GUID='1010259' Path="//Product">
+        <BasePrice>2160</BasePrice>
+    </ModOp>
+    <!-- Coffee-->
+    <ModOp Type="merge" GUID='120032' Path="//Product">
+        <BasePrice>200</BasePrice>
+    </ModOp>
+    <!-- Chocolate-->
+    <ModOp Type="merge" GUID='1010258' Path="//Product">
+        <BasePrice>76</BasePrice>
+    </ModOp>
+    <!-- Rum-->
+    <ModOp Type="merge" GUID='1010257' Path="//Product">
+        <BasePrice>60</BasePrice>
+    </ModOp>
+    <!-- Gold-->
+    <ModOp Type="merge" GUID='1010249' Path="//Product">
+        <BasePrice>2770</BasePrice>
+    </ModOp>
+    <!-- Advanced Weapons-->
+    <ModOp Type="merge" GUID='1010223' Path="//Product">
+        <BasePrice>24110</BasePrice>
+    </ModOp>
+    <!-- Weapons-->
+    <ModOp Type="merge" GUID='1010221' Path="//Product">
+        <BasePrice>570</BasePrice>
+    </ModOp>
+    <!-- Gold Ore-->
+    <ModOp Type="merge" GUID='1010233' Path="//Product">
+        <BasePrice>1250</BasePrice>
+    </ModOp>
+    <!-- Cement-->
+    <ModOp Type="merge" GUID='1010231' Path="//Product">
+        <BasePrice>250</BasePrice>
+    </ModOp>
+    <!-- Copper-->
+    <ModOp Type="merge" GUID='1010230' Path="//Product">
+        <BasePrice>250</BasePrice>
+    </ModOp>
+    <!-- Zinc-->
+    <ModOp Type="merge" GUID='1010229' Path="//Product">
+        <BasePrice>250</BasePrice>
+    </ModOp>
+    <!-- Coal-->
+    <ModOp Type="merge" GUID='1010226' Path="//Product">
+        <BasePrice>20</BasePrice>
+    </ModOp>
+    <!-- Iron-->
+    <ModOp Type="merge" GUID='1010227' Path="//Product">
+        <BasePrice>20</BasePrice>
+    </ModOp>
+    <!-- Tabacco-->
+    <ModOp Type="merge" GUID='1010252' Path="//Product">
+        <BasePrice>100</BasePrice>
+    </ModOp>
+    <!-- Cotton Fabric-->
+    <ModOp Type="merge" GUID='1010240' Path="//Product">
+        <BasePrice>20</BasePrice>
+    </ModOp>
+    <!-- Sugar-->
+    <ModOp Type="merge" GUID='1010239' Path="//Product">
+        <BasePrice>16</BasePrice>
+    </ModOp>
+    <!-- Cocoa-->
+    <ModOp Type="merge" GUID='1010254' Path="//Product">
+        <BasePrice>10</BasePrice>
+    </ModOp>
+    <!-- Sugar Cane-->
+    <ModOp Type="merge" GUID='1010251' Path="//Product">
+        <BasePrice>6</BasePrice>
+    </ModOp>
+    <!-- Chassis-->
+    <ModOp Type="merge" GUID='1010211' Path="//Product">
+        <BasePrice>4056</BasePrice>
+    </ModOp>
+    <!-- Caoutchouc-->
+    <ModOp Type="merge" GUID='1010255' Path="//Product">
+        <BasePrice>50</BasePrice>
+    </ModOp>
+    <!-- Filaments-->
+    <ModOp Type="merge" GUID='1010243' Path="//Product">
+        <BasePrice>1470</BasePrice>
+    </ModOp>
+    <!-- Steam Motors-->
+    <ModOp Type="merge" GUID='1010224' Path="//Product">
+        <BasePrice>17570</BasePrice>
+    </ModOp>
+    <!-- Saltpeter-->
+    <ModOp Type="merge" GUID='1010232' Path="//Product">
+        <BasePrice>2000</BasePrice>
+    </ModOp>
+    <!-- Steel-->
+    <ModOp Type="merge" GUID='1010219' Path="//Product">
+        <BasePrice>70</BasePrice>
+    </ModOp>
+    <!-- Caribou Meat-->
+    <ModOp Type="merge" GUID='112694' Path="//Product">
+        <BasePrice>100</BasePrice>
+    </ModOp>
+    <!-- Whale Oil-->
+    <ModOp Type="merge" GUID='112699' Path="//Product">
+        <BasePrice>400</BasePrice>
+    </ModOp>
+    <!-- Pemmican-->
+    <ModOp Type="merge" GUID='112705' Path="//Product">
+        <BasePrice>1260</BasePrice>
+    </ModOp>
+    <!-- Bear Fur-->
+    <ModOp Type="merge" GUID='112695' Path="//Product">
+        <BasePrice>160</BasePrice>
+    </ModOp>
+    <!-- Huskies-->
+    <ModOp Type="merge" GUID='112698' Path="//Product">
+        <BasePrice>1500</BasePrice>
+    </ModOp>
+    <!-- Mud Bricks-->
+    <ModOp Type="merge" GUID='114402' Path="//Product">
+        <BasePrice>130</BasePrice>
+    </ModOp>
+    <!-- Spiced Flour-->
+    <ModOp Type="merge" GUID='114408' Path="//Product">
+        <BasePrice>146</BasePrice>
+    </ModOp>
+    <!-- Sanga Cow-->
+    <ModOp Type="merge" GUID='114357' Path="//Product">
+        <BasePrice>20</BasePrice>
+    </ModOp>
+    <!-- Linen-->
+    <ModOp Type="merge" GUID='114391' Path="//Product">
+        <BasePrice>40</BasePrice>
+    </ModOp>
+    <!-- Hibiscus Petals-->
+    <ModOp Type="merge" GUID='114364' Path="//Product">
+        <BasePrice>30</BasePrice>
+    </ModOp>
+    <!-- Wanza Timber-->
+    <ModOp Type="merge" GUID='114356' Path="//Product">
+        <BasePrice>8</BasePrice>
+    </ModOp>
+</ModOps>
