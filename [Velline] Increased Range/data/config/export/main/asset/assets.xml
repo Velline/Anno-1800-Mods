@@ -38,6 +38,28 @@
     <ModOp Type="merge" GUID='1010035' Path="/Values/Street">
         <SpeedFactor>500</SpeedFactor>
     </ModOp>
+    <ModOp Type="replace" GUID='1010035' Path="/Values/Cost/Costs">
+                            <Item>
+                              <Ingredient>1010017</Ingredient>
+                              <Amount>50</Amount>
+                            </Item>
+                            <Item>
+                              <Ingredient>1010196</Ingredient>
+                            </Item>
+                            <Item>
+                              <Ingredient>1010205</Ingredient>
+                              <Amount>1</Amount>
+                            </Item>
+                            <Item>
+                              <Ingredient>1010218</Ingredient>
+                            </Item>
+                            <Item>
+                              <Ingredient>1010207</Ingredient>
+                            </Item>
+                            <Item>
+                              <Ingredient>1010202</Ingredient>
+                            </Item>
+    </ModOp>
     <ModOp Type="add" GUID='1000178' Path="/Values/Street">
         <SpeedFactor>2</SpeedFactor>
     </ModOp>
