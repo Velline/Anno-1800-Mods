@@ -2,9 +2,9 @@
     <ModOp Type="merge" Path="//FreeAreaProductivity">
         <NeededAreaPercent>0</NeededAreaPercent>
         <FreeAreaType>Lumberjack</FreeAreaType>
-        <GrowingTime>480000</GrowingTime>
+        <GrowingTime>20000</GrowingTime>
         <WorkerUnit>0</WorkerUnit>
-        <InitializeForestMaxDuration>300000</InitializeForestMaxDuration>
+        <InitializeForestMaxDuration>10000</InitializeForestMaxDuration>
         <InitializeForestMinTreeAreaPercent>0</InitializeForestMinTreeAreaPercent>
         <CutTree>1</CutTree>
         <PlantTreePercent>100</PlantTreePercent>
