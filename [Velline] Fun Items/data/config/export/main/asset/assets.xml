@@ -4809,7 +4809,7 @@
                 <VisitorHarborUpgrade />
                 <CultureUpgrade>
                     <AttractivenessUpgrade>
-                        <Value>100</Value>
+                        <Value>100000</Value>
                         <Percental>1</Percental>
                     </AttractivenessUpgrade>
                 </CultureUpgrade>
@@ -4912,6 +4912,9 @@
                     <EffectTargets>
                         <Item>
                             <GUID>190762</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>601445</GUID>
                         </Item>
                     </EffectTargets>
                 </ItemEffect>
@@ -5251,6 +5254,7 @@
             </Values>
         </Asset>
     </ModOp>
+    
     <!-- Nina Arctic Lodge-->
     <ModOp Type="addNextSibling" GUID='111013'>
         <Asset>
@@ -5951,7 +5955,7 @@
                 </BuildingUpgrade>
                 <VisitorHarborUpgrade>
                     <SpawnProbabilityFactor>
-                        <Value>1000</Value>
+                        <Value>1000000</Value>
                         <Percental>1</Percental>
                     </SpawnProbabilityFactor>
                 </VisitorHarborUpgrade>
