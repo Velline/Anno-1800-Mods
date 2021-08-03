@@ -5197,7 +5197,7 @@
                             <ProvidedNeed>132755</ProvidedNeed>
                             <AmountInPercent>-100</AmountInPercent>
                         </Item>
-                         <Item>
+                        <Item>
                             <ProvidedNeed>133181</ProvidedNeed>
                             <AmountInPercent>-100</AmountInPercent>
                         </Item>
@@ -5254,7 +5254,6 @@
             </Values>
         </Asset>
     </ModOp>
-    
     <!-- Nina Arctic Lodge-->
     <ModOp Type="addNextSibling" GUID='111013'>
         <Asset>
@@ -5285,7 +5284,10 @@
                 <ItemEffect>
                     <EffectTargets>
                         <Item>
-                            <GUID>190762</GUID>
+                            <GUID>112091</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>112652</GUID>
                         </Item>
                     </EffectTargets>
                 </ItemEffect>
@@ -5568,7 +5570,7 @@
                             <ProvidedNeed>132755</ProvidedNeed>
                             <AmountInPercent>-100</AmountInPercent>
                         </Item>
-                         <Item>
+                        <Item>
                             <ProvidedNeed>133181</ProvidedNeed>
                             <AmountInPercent>-100</AmountInPercent>
                         </Item>
