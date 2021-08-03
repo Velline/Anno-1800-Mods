@@ -1,0 +1,40 @@
+<ModOps>
+    <ModOp Type="merge" GUID="133929,133934,133935,133936,133937" Path="/Values/InputBenefitModifier">
+        <Item>
+            <Product>1010200</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010213</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010217</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010353</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>120032</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010208</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>120016</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010225</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010258</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+    </ModOp>
+</ModOps>
