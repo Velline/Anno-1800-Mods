@@ -1,4 +1,41 @@
 <ModOps>
-    <ModOp Type="remove" GUID='132777,132786,133533,133928,133930,133931,133932,133933,132752,133342,133343,133345,133346,132753,133347,133348,133349,133350,132747,132750,133339,133340,133341' Path="/Values/FactoryBase/FactoryInputs">
+    <ModOp Type="remove" GUID='132777,132786,133533,133928,133930,133931,133932,133933,132752,133342,133343,133345,133346,132753,133347,133348,133349,133350,132747,132750,133339,133340,133341' Path="/Values/FactoryBase/FactoryInputs"></ModOp>
+    <ModOp Type="merge" GUID="133929,133934,133935,133936,133937" Path="/Values/InputBenefitModifier">
+        <Item>
+            <Product>1010200</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010213</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010217</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010353</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>120032</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010208</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>120016</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010225</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
+        <Item>
+            <Product>1010258</Product>
+            <AdditionalSupply>1000</AdditionalSupply>
+        </Item>
     </ModOp>
 </ModOps>
