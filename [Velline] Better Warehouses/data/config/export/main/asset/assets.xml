@@ -1,7 +1,7 @@
 <ModOps>
     <!-- Warehouse II (Old World)-->
     <ModOp Type="merge" Path="//QueueConfiguration">
-        <ProcessingQueueParallelCount>100</ProcessingQueueParallelCount>
+        <ProcessingQueueParallelCount>1000</ProcessingQueueParallelCount>
     </ModOp>
     <!-- Kontor Storage-->
     <ModOp Type="add" GUID='1010517' Path="/Values">

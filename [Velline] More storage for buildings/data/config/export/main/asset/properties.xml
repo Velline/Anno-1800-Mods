@@ -2,9 +2,8 @@
     <ModOp Type="merge" Path="//Transporter7">
         <TransporterCapacity>500</TransporterCapacity>
         <ProcessingTimes>
-            <LoadingTime>0.00000000001</LoadingTime>
-            <UnloadingTime>0.00000000001</UnloadingTime>
-        </ProcessingTimes>
-        <TransporterSpeed>500</TransporterSpeed>
+            <LoadingTime>1</LoadingTime>
+            <UnloadingTime>1</UnloadingTime>
+          </ProcessingTimes>
     </ModOp>
 </ModOps>
