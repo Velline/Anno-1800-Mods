@@ -1,14 +1,14 @@
 <ModOps>
+     <ModOp Type="replace" Path="//FactoryInputs/Item/StorageAmount">
+        <StorageAmount>500</StorageAmount>
+    </ModOp>
+    <ModOp Type="replace" Path="//FactoryInputs/Item/Amount">
+        <Amount>20</Amount>
+    </ModOp>
     <ModOp Type="replace" Path="//FactoryOutputs/Item/StorageAmount">
         <StorageAmount>500</StorageAmount>
     </ModOp>
     <ModOp Type="replace" Path="//FactoryOutputs/Item/Amount">
-        <Amount>20</Amount>
-    </ModOp>
-    <ModOp Type="replace" Path="//FactoryInputs/Item/StorageAmount">
-        <StorageAmount>500</StorageAmount>
-    </ModOp>
-    <ModOp Type="replace" Path="//FactoryInputs/Item/Amount">
         <Amount>20</Amount>
     </ModOp>
      <ModOp Type="add" Path="//FactoryBase">
