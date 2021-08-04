@@ -34,7 +34,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010201</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -116,7 +116,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120008</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -198,7 +198,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010197</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -280,7 +280,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -362,7 +362,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -444,11 +444,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120008</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -530,11 +530,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010231</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -616,11 +616,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010204</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -704,11 +704,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010249</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -792,11 +792,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010242</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010204</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -880,11 +880,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010211</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010224</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -968,11 +968,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010243</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010242</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1056,7 +1056,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010235</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1138,11 +1138,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010222</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1227,11 +1227,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010240</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>120044</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1313,11 +1313,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010255</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1399,7 +1399,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114357</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1481,11 +1481,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010194</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010236</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1567,7 +1567,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114364</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1649,11 +1649,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010227</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010215</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1735,11 +1735,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010201</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>114367</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1821,11 +1821,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114368</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010201</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1907,11 +1907,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120014</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -1993,11 +1993,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010254</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010239</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2079,11 +2079,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010252</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010242</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2165,11 +2165,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120031</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>120032</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2251,11 +2251,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114357</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>114358</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2337,7 +2337,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114391</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2419,7 +2419,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010197</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2501,11 +2501,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120042</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>120041</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2587,11 +2587,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010209</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010240</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2673,7 +2673,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112706</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2756,11 +2756,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112698</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>112704</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2842,11 +2842,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010256</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010249</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -2928,11 +2928,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>117701</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3014,11 +3014,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010243</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3100,11 +3100,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114368</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>117702</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3187,11 +3187,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112699</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010204</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3274,11 +3274,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112695</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>112696</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3361,11 +3361,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112699</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>112694</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3447,11 +3447,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010201</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010252</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3533,7 +3533,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120036</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3615,11 +3615,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120008</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010251</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3701,11 +3701,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>120008</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010219</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3787,7 +3787,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010195</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3869,7 +3869,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010199</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -3952,11 +3952,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>112696</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>112697</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4038,7 +4038,7 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010234</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4120,11 +4120,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010241</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010204</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4206,11 +4206,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114391</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>1010240</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4292,11 +4292,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114368</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>114391</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4378,11 +4378,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>1010193</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>120034</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
@@ -4464,11 +4464,11 @@
                     <InputAmountUpgrade>
                         <Item>
                             <Product>114408</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                         <Item>
                             <Product>118728</Product>
-                            <Amount>-1</Amount>
+                            <Amount>-20</Amount>
                         </Item>
                     </InputAmountUpgrade>
                 </FactoryUpgrade>
