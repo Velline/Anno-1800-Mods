@@ -37,10 +37,13 @@
     <ModOp Type="merge" GUID="120025" Path="/Values/Transporter7">
         <TransporterSpeed>10</TransporterSpeed>
     </ModOp>
-    <ModOp Type="merge" GUID="101331,116034" Path="/Values/FactoryBase/FactoryOutputs">
+    <ModOp Type="merge" GUID="116034,117743,101267,100416,1010304,1010308,1010305,1010309,117744,1010307" Path="/Values/FactoryBase/FactoryOutputs">
         <CycleTime>15</CycleTime>
     </ModOp>
+    <ModOp Type="merge" GUID="101331,1010311,1010311" Path="/Values/FactoryBase/FactoryOutputs">
+        <CycleTime>30</CycleTime>
+    </ModOp>
     <ModOp Type="merge" GUID="116029" Path="/Values/FactoryBase/FactoryOutputs">
-        <CycleTime>24</CycleTime>
+        <CycleTime>12</CycleTime>
     </ModOp>
 </ModOps>
