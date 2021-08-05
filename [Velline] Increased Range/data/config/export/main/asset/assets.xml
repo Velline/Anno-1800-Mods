@@ -15,17 +15,6 @@
             <NoSatisfactionDistance>250</NoSatisfactionDistance>
         </PublicService>
     </ModOp>
-    <!-- Marketplace-->
-    <ModOp Type="add" GUID='101257,114518,114889' Path="/Values">
-        <Market>
-            <FullSupplyDistance>250</FullSupplyDistance>
-            <NoSupplyDistance>250</NoSupplyDistance>
-        </Market>
-        <PublicService>
-            <FullSatisfactionDistance>250</FullSatisfactionDistance>
-            <NoSatisfactionDistance>250</NoSatisfactionDistance>
-        </PublicService>
-    </ModOp>
     <!-- Electricity-->
     <ModOp Type="merge" GUID='100780,117547' Path="/Values/Powerplant">
         <IndustrializationDistance>1200000</IndustrializationDistance>

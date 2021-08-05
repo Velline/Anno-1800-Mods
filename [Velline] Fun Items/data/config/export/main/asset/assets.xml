@@ -22,9 +22,9 @@
                     <LineID>333666003</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>3000000</TradePrice>
+                    <TradePrice>30000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -104,9 +104,9 @@
                     <LineID>333666006</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>1000000</TradePrice>
+                    <TradePrice>10000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -186,9 +186,9 @@
                     <LineID>333666009</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>5000000</TradePrice>
+                    <TradePrice>50000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -268,9 +268,9 @@
                     <LineID>333666012</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>8000000</TradePrice>
+                    <TradePrice>80000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -350,7 +350,7 @@
                     <LineID>333666015</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>28000000</TradePrice>
                 </Item>
@@ -432,7 +432,7 @@
                     <LineID>333666018</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>42000000</TradePrice>
                 </Item>
@@ -518,7 +518,7 @@
                     <LineID>333666021</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>64000000</TradePrice>
                 </Item>
@@ -604,7 +604,7 @@
                     <LineID>333666024</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>750000000</TradePrice>
                 </Item>
@@ -692,7 +692,7 @@
                     <LineID>333666027</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>200000000</TradePrice>
                 </Item>
@@ -780,7 +780,7 @@
                     <LineID>333666030</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>660000000</TradePrice>
                 </Item>
@@ -868,7 +868,7 @@
                     <LineID>333666033</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>750000000</TradePrice>
                 </Item>
@@ -956,7 +956,7 @@
                     <LineID>333666036</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>115000000</TradePrice>
                 </Item>
@@ -1044,9 +1044,9 @@
                     <LineID>333666039</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>6000000</TradePrice>
+                    <TradePrice>60000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -1126,7 +1126,7 @@
                     <LineID>333666042</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>750000000</TradePrice>
                 </Item>
@@ -1215,9 +1215,9 @@
                     <LineID>333666045</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>2000000</TradePrice>
+                    <TradePrice>20000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -1301,7 +1301,7 @@
                     <LineID>333666048</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>42000000</TradePrice>
                 </Item>
@@ -1387,7 +1387,7 @@
                     <LineID>333666051</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>18000000</TradePrice>
                 </Item>
@@ -1469,7 +1469,7 @@
                     <LineID>333666054</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>16000000</TradePrice>
                 </Item>
@@ -1555,9 +1555,9 @@
                     <LineID>333666057</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>6000000</TradePrice>
+                    <TradePrice>60000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -1637,7 +1637,7 @@
                     <LineID>333666060</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>27000000</TradePrice>
                 </Item>
@@ -1723,9 +1723,9 @@
                     <LineID>333666063</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>7000000</TradePrice>
+                    <TradePrice>70000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -1809,9 +1809,9 @@
                     <LineID>333666066</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>4000000</TradePrice>
+                    <TradePrice>40000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -1895,7 +1895,7 @@
                     <LineID>333666069</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>45000000</TradePrice>
                 </Item>
@@ -1981,9 +1981,9 @@
                     <LineID>333666072</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>4000000</TradePrice>
+                    <TradePrice>40000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -2067,7 +2067,7 @@
                     <LineID>333666075</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>104000000</TradePrice>
                 </Item>
@@ -2153,7 +2153,7 @@
                     <LineID>333666078</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>10000000</TradePrice>
                 </Item>
@@ -2239,7 +2239,7 @@
                     <LineID>333666081</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>30000000</TradePrice>
                 </Item>
@@ -2325,9 +2325,9 @@
                     <LineID>333666084</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>2000000</TradePrice>
+                    <TradePrice>20000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -2407,9 +2407,9 @@
                     <LineID>333666087</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>1000000</TradePrice>
+                    <TradePrice>10000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -2489,9 +2489,9 @@
                     <LineID>333666090</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>2000000</TradePrice>
+                    <TradePrice>20000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -2575,7 +2575,7 @@
                     <LineID>333666093</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>15000000</TradePrice>
                 </Item>
@@ -2661,7 +2661,7 @@
                     <LineID>333666096</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>50000000</TradePrice>
                 </Item>
@@ -2744,7 +2744,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>87000000</TradePrice>
                 </Item>
@@ -2830,7 +2830,7 @@
                     <LineID>333666102</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>272000000</TradePrice>
                 </Item>
@@ -2916,7 +2916,7 @@
                     <LineID>333666105</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>30000000</TradePrice>
                 </Item>
@@ -3002,7 +3002,7 @@
                     <LineID>333666108</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>107000000</TradePrice>
                 </Item>
@@ -3088,7 +3088,7 @@
                     <LineID>333666111</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>14000000</TradePrice>
                 </Item>
@@ -3175,7 +3175,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>41000000</TradePrice>
                 </Item>
@@ -3262,7 +3262,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>25000000</TradePrice>
                 </Item>
@@ -3349,7 +3349,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>61000000</TradePrice>
                 </Item>
@@ -3435,7 +3435,7 @@
                     <LineID>333666123</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>16000000</TradePrice>
                 </Item>
@@ -3521,9 +3521,9 @@
                     <LineID>333666126</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>2000000</TradePrice>
+                    <TradePrice>20000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -3603,9 +3603,9 @@
                     <LineID>333666129</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>3000000</TradePrice>
+                    <TradePrice>30000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -3689,7 +3689,7 @@
                     <LineID>333666132</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>14000000</TradePrice>
                 </Item>
@@ -3775,9 +3775,9 @@
                     <LineID>333666135</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>2000000</TradePrice>
+                    <TradePrice>20000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -3857,9 +3857,9 @@
                     <LineID>333666138</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>3000000</TradePrice>
+                    <TradePrice>30000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -3940,7 +3940,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>23000000</TradePrice>
                 </Item>
@@ -4026,9 +4026,9 @@
                     <LineID>333666144</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>6000000</TradePrice>
+                    <TradePrice>60000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -4108,7 +4108,7 @@
                     <LineID>333666147</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>107000000</TradePrice>
                 </Item>
@@ -4194,7 +4194,7 @@
                     <LineID>333666150</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>24000000</TradePrice>
                 </Item>
@@ -4280,9 +4280,9 @@
                     <LineID>333666153</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>7000000</TradePrice>
+                    <TradePrice>70000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -4366,9 +4366,9 @@
                     <LineID>333666156</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>9000000</TradePrice>
+                    <TradePrice>90000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -4452,7 +4452,7 @@
                     <LineID>333666159</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>13000000</TradePrice>
                 </Item>
@@ -4539,7 +4539,7 @@
                     <LineID>333666162</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>200000000</TradePrice>
                 </Item>
@@ -4599,7 +4599,7 @@
                     <LineID>333666165</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>100000000</TradePrice>
                 </Item>
@@ -4667,7 +4667,7 @@
                     <LineID>333666168</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>200000000</TradePrice>
                 </Item>
@@ -4772,7 +4772,7 @@
                     <LineID>333666171</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>75000000</TradePrice>
                 </Item>
@@ -4844,7 +4844,7 @@
                     <LineID>333666174</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>75000000</TradePrice>
                 </Item>
@@ -4904,7 +4904,7 @@
                     <LineID>333666177</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>750000000</TradePrice>
                 </Item>
@@ -5277,7 +5277,7 @@
                 </Text>
                 <Item>
                     <Allocation>Lodge</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>250000000</TradePrice>
                 </Item>
@@ -5649,7 +5649,7 @@
                     <LineID>333666183</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>250000</TradePrice>
                 </Item>
@@ -5715,7 +5715,7 @@
                     <LineID>333666186</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>250000</TradePrice>
                 </Item>
@@ -5781,7 +5781,7 @@
                     <LineID>333666189</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>250000</TradePrice>
                 </Item>
@@ -5848,9 +5848,9 @@
                 </Text>
                 <Item>
                     <Allocation>HarborOffice</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
-                    <TradePrice>1000000</TradePrice>
+                    <TradePrice>10000000</TradePrice>
                 </Item>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
@@ -5925,7 +5925,7 @@
                 </Text>
                 <Item>
                     <Allocation>HarborOffice</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>100000000</TradePrice>
                 </Item>
@@ -5997,7 +5997,7 @@
                     <LineID>333666198</LineID>
                 </Text>
                 <Item>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <ItemType>Specialist</ItemType>
                     <TradePrice>750000000</TradePrice>
@@ -6081,7 +6081,7 @@
                 </Text>
                 <Item>
                     <Allocation>Warship</Allocation>
-                    <MaxStackSize>10</MaxStackSize>
+                    <MaxStackSize>100</MaxStackSize>
                     <Rarity>Legendary</Rarity>
                     <TradePrice>750000000</TradePrice>
                 </Item>

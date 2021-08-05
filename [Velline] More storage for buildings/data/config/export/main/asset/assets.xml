@@ -1,27 +1,46 @@
 <ModOps>
-     <ModOp Type="replace" Path="//FactoryInputs/Item/StorageAmount">
+    <ModOp Type="replace" Path="//FactoryInputs/Item/StorageAmount">
         <StorageAmount>500</StorageAmount>
     </ModOp>
     <ModOp Type="replace" Path="//FactoryInputs/Item/Amount">
-        <Amount>20</Amount>
+        <Amount>10</Amount>
     </ModOp>
     <ModOp Type="replace" Path="//FactoryOutputs/Item/StorageAmount">
         <StorageAmount>500</StorageAmount>
     </ModOp>
     <ModOp Type="replace" Path="//FactoryOutputs/Item/Amount">
-        <Amount>20</Amount>
+        <Amount>10</Amount>
     </ModOp>
-     <ModOp Type="add" Path="//FactoryBase">
+    <ModOp Type="add" Path="//FactoryBase">
         <CycleTime>60</CycleTime>
     </ModOp>
     <ModOp Type="replace" Path="//FactoryBase/CycleTime">
         <CycleTime>60</CycleTime>
+    </ModOp>
+    <ModOp Type="merge" GUID="114751" Path="/Values/FactoryBase">
+        <FactoryInputs>
+            <Item>
+                <Product>1010226</Product>
+                <Amount>1</Amount>
+                <StorageAmount>500</StorageAmount>
+            </Item>
+        </FactoryInputs>
+        <CycleTime>5</CycleTime>
     </ModOp>
     <ModOp Type="merge" Path="//Transporter7">
         <TransporterCapacity>500</TransporterCapacity>
         <ProcessingTimes>
             <LoadingTime>1</LoadingTime>
             <UnloadingTime>1</UnloadingTime>
-          </ProcessingTimes>
+        </ProcessingTimes>
+    </ModOp>
+    <ModOp Type="merge" GUID="120025" Path="/Values/Transporter7">
+        <TransporterSpeed>10</TransporterSpeed>
+    </ModOp>
+    <ModOp Type="merge" GUID="101331,116034" Path="/Values/FactoryBase/FactoryOutputs">
+        <CycleTime>15</CycleTime>
+    </ModOp>
+    <ModOp Type="merge" GUID="116029" Path="/Values/FactoryBase/FactoryOutputs">
+        <CycleTime>24</CycleTime>
     </ModOp>
 </ModOps>

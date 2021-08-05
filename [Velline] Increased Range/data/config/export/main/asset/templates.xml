@@ -3,4 +3,7 @@
         <FullSatisfactionDistance>1200000</FullSatisfactionDistance>
         <NoSatisfactionDistance>1200000</NoSatisfactionDistance>
     </ModOp>
+    <ModOp Type="merge" Path="//HeatProvider">
+        <HeatRange>2000</HeatRange>
+    </ModOp>
 </ModOps>

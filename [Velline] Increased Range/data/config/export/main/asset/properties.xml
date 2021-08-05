@@ -10,4 +10,8 @@
         <FullSatisfactionDistance>250</FullSatisfactionDistance>
         <NoSatisfactionDistance>250</NoSatisfactionDistance>
     </ModOp>
+    <ModOp Type="merge" Path="//Market">
+        <FullSupplyDistance>250</FullSupplyDistance>
+          <NoSupplyDistance>250</NoSupplyDistance>
+    </ModOp>
 </ModOps>
