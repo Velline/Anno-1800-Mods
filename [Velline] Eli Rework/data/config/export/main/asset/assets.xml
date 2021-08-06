@@ -279,6 +279,14 @@
                     <ItemLink>333666202</ItemLink>
                     <Weight>49</Weight>
                 </Item>
+                <Item>
+                    <ItemLink>800000000</ItemLink>
+                    <Weight>49</Weight>
+                </Item>
+                <Item>
+                    <ItemLink>800000003</ItemLink>
+                    <Weight>49</Weight>
+                </Item>
             </ItemsPool>
             <IgnoreUnlocks>1</IgnoreUnlocks>
         </RewardPool>

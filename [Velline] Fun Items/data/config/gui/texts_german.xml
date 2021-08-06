@@ -815,4 +815,28 @@
             <Text>Du hast deiner Bevölkerung Netflix abgeschaltet um mehr Arbeitskräfte zu haben. Möglicherweise sind sie nun sauer auf dich!</Text>
         </Text>
     </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000000</GUID>
+            <Text>Ultimative arbeitende Nina</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000001</GUID>
+            <Text>Nina goes brrrrrrrr!</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000000</GUID>
+            <Text>Ultimative essende Nina</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000001</GUID>
+            <Text>Es ist ein Wunder, dass noch etwas da ist!</Text>
+        </Text>
+    </ModOp>
 </ModOps>

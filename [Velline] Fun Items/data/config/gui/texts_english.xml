@@ -815,4 +815,28 @@
             <Text>You disabled Netflix for your people to increase your workforce. The might be mad at you!</Text>
         </Text>
     </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000000</GUID>
+            <Text>Ultimate Working Nina</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000001</GUID>
+            <Text>Nina goes brrrrrrrr!</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000003</GUID>
+            <Text>Ultimative Eating Nina</Text>
+        </Text>
+    </ModOp>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>800000004</GUID>
+            <Text>It's a miracle something is left over!</Text>
+        </Text>
+    </ModOp>
 </ModOps>
