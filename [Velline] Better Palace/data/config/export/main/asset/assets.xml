@@ -12,8 +12,4 @@
             </Item>
         </ModulesForCompanyLevelSetup>
     </ModOp>
-    <!-- Palace Wings By Radius-->
-    <ModOp Type="add" GUID ='249947' Path="/Values/ModuleOwner">
-        <ModuleBuildRadius>300</ModuleBuildRadius>
-    </ModOp>
 </ModOps>

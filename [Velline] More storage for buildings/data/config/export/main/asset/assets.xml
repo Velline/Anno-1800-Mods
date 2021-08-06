@@ -37,13 +37,41 @@
     <ModOp Type="merge" GUID="120025" Path="/Values/Transporter7">
         <TransporterSpeed>10</TransporterSpeed>
     </ModOp>
-    <ModOp Type="merge" GUID="116034,117743,101267,100416,1010304,1010308,1010305,1010309,117744,1010307" Path="/Values/FactoryBase/FactoryOutputs">
-        <CycleTime>15</CycleTime>
+    <!-- Fixes for mines and buildings that normally have an advantage-->
+    <!-- Old World Mines-->
+    <ModOp Type="replace" GUID="1010305,100416,1010304,1010308,1010309,1010307" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
+        <CycleTime>6</CycleTime>
     </ModOp>
-    <ModOp Type="merge" GUID="101331,1010311,1010311" Path="/Values/FactoryBase/FactoryOutputs">
+    <!-- Enbesa-->
+    <ModOp Type="replace" GUID="117743,117744" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
+        <CycleTime>6</CycleTime>
+    </ModOp>
+    <!-- Arctic-->
+    <ModOp Type="replace" GUID="114705" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
+        <CycleTime>6</CycleTime>
+    </ModOp>
+    <!-- Gold Mines -->
+    <ModOp Type="replace" GUID="1010311,101311" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
         <CycleTime>30</CycleTime>
     </ModOp>
-    <ModOp Type="merge" GUID="116029" Path="/Values/FactoryBase/FactoryOutputs">
+    <!-- Deep Mine -->
+    <ModOp Type="replace" GUID="116029" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
         <CycleTime>12</CycleTime>
+    </ModOp>
+    <!-- Prime Hunting Cabin-->
+    <ModOp Type="replace" GUID="116034" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
+        <CycleTime>15</CycleTime>
+    </ModOp>
+     <!-- Oil Refinery-->
+    <ModOp Type="replace" GUID="1010561" Path="/Values/FactoryBase/FactoryOutputs/CycleTime">
+        <CycleTime>5</CycleTime>
+    </ModOp>
+    <!-- Tractor -->
+    <ModOp Type="merge" GUID="269837,269839,269848,269849,119026,119027,270040,270041" Path="//FactoryInputs/Item">
+        <Amount>1</Amount>
+    </ModOp>
+    <!-- Silo -->
+    <ModOp Type="merge" GUID="269957,269958,119025" Path="//FactoryInputs/Item">
+        <Amount>1</Amount>
     </ModOp>
 </ModOps>

@@ -1,7 +1,9 @@
 <ModOps>
     <ModOp Type="merge" Path="//FreeAreaProductivity">
         <NeededAreaPercent>0</NeededAreaPercent>
-        <InitializeForestMaxDuration>10000</InitializeForestMaxDuration>
         <InitializeForestMinTreeAreaPercent>0</InitializeForestMinTreeAreaPercent>
+    </ModOp>
+    <ModOp Type="replace" Path="//InitializeForestMaxDuration">
+        <InitializeForestMaxDuration>1000</InitializeForestMaxDuration>
     </ModOp>
 </ModOps>

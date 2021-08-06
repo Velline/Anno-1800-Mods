@@ -1,0 +1,5 @@
+<ModOps>
+    <ModOp Type="merge" Path="//FreeAreaProductivity">
+        <InitializeForestMinTreeAreaPercent>0</InitializeForestMinTreeAreaPercent>
+    </ModOp>
+</ModOps>

@@ -56,8 +56,8 @@
     </ModOp>
     <!-- Passive Trades-->
     <ModOp Type="merge" Path="//ActiveTrade/*[self::EarlyGame or self::EarlyMidGame or self::MidGame or self::LateMidGame or self::LateGame or self::EndGame]">
-            <BuyBudget>50000000</BuyBudget>
-            <SellBudget>50000000</SellBudget>
+        <BuyBudget>50000000</BuyBudget>
+        <SellBudget>50000000</SellBudget>
     </ModOp>
     <!-- Third Party Trader Storage-->
     <ModOp Type="merge" GUID='100680,100681,100682,100683,100685,100686,101117,116035,119409,119425,131065' Path="/Values/Warehouse/WarehouseStorage">
