@@ -77,4 +77,7 @@
     <ModOp Type="merge" Path="//ModuleLimits/Main/Limit">
         <Limit>3</Limit>
     </ModOp>
+    <ModOp Type="merge" GUID="1010471,1010470,100448,110935" Path="//ModuleLimits/Main/Limit">
+        <Limit>500</Limit>
+    </ModOp>
 </ModOps>
