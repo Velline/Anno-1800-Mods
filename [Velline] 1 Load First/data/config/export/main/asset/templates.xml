@@ -1,0 +1,5 @@
+<ModOps>
+    <ModOp Type="merge" Path="//ModuleLimits/Main/Limit">
+        <Limit>3</Limit>
+    </ModOp>
+</ModOps>
