@@ -66,6 +66,10 @@
     <ModOp Type="merge" GUID="1010561" Path="/Values/FactoryBase/FactoryOutputs">
         <CycleTime>5</CycleTime>
     </ModOp>
+     <!-- Fuel Station-->
+    <ModOp Type="merge" GUID="118571,270044,269840,119028" Path="/Values/FactoryBase/FactoryOutputs">
+        <CycleTime>15</CycleTime>
+    </ModOp>
     <!-- Tractor -->
     <ModOp Type="merge" GUID="269837,269839,269848,269849,119026,119027,270040,270041" Path="//FactoryInputs/Item">
         <Amount>1</Amount>
