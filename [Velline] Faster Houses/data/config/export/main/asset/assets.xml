@@ -2,6 +2,6 @@
     <!-- Time it takes to get new residents-->
     <ModOp Type="merge" Path="//Residence7">
         <MoveInMs>1</MoveInMs>
-        <MoveOutMs>1000000000</MoveOutMs>
+        <MoveOutMs>100000</MoveOutMs>
     </ModOp>
 </ModOps>
