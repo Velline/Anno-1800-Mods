@@ -3,5 +3,6 @@
     <ModOp Type="merge" Path="//Residence7">
         <MoveInMs>1</MoveInMs>
         <MoveOutMs>100000</MoveOutMs>
+        <MoveRandomMs>1</MoveRandomMs>
     </ModOp>
 </ModOps>
