@@ -3,7 +3,4 @@
         <NeededAreaPercent>0</NeededAreaPercent>
         <InitializeForestMinTreeAreaPercent>0</InitializeForestMinTreeAreaPercent>
     </ModOp>
-    <ModOp Type="replace" Path="//InitializeForestMaxDuration">
-        <InitializeForestMaxDuration>1000</InitializeForestMaxDuration>
-    </ModOp>
 </ModOps>
