@@ -1,5 +1,6 @@
 <ModOps>
     <ModOp Type="replace" Path="//AdditionalModuleMustBeMainBuildingAdjacent">
-        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>	
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+        <ModuleBuildRadius>300</ModuleBuildRadius>	
     </ModOp>
 </ModOps>
