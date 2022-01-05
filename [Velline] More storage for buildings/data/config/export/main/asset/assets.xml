@@ -87,7 +87,7 @@
     </ModOp>
     <!-- Oil Refinery -->
     <ModOp Type="merge"
-           GUID="1010561"
+           GUID="1010561,2084160017"
            Path="/Values/FactoryBase/FactoryOutputs">
         <CycleTime>1</CycleTime>
     </ModOp>
