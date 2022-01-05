@@ -1,5 +1,6 @@
 <ModOps>
-    <ModOp Type="addNextSibling" GUID='191637'>
+    <ModOp Type="addNextSibling"
+           GUID="191637">
         <Asset>
             <Template>RewardPool</Template>
             <Values>
@@ -29,7 +30,8 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="addNextSibling" GUID='192021'>
+    <ModOp Type="addNextSibling"
+           GUID="192021">
         <Asset>
             <Template>TownhallBuff</Template>
             <Values>
@@ -74,10 +76,13 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="merge" Path="//ModuleLimits/Main/Limit">
+    <ModOp Type="merge"
+           Path="//ModuleLimits/Main/Limit">
         <Limit>3</Limit>
     </ModOp>
-    <ModOp Type="merge" GUID="1010471,1010470,100448,110935" Path="//ModuleLimits/Main/Limit">
+    <ModOp Type="merge"
+           GUID="1010471,1010470,100448,110935"
+           Path="//ModuleLimits/Main/Limit">
         <Limit>500</Limit>
     </ModOp>
 </ModOps>

@@ -1,5 +1,6 @@
 <ModOps>
-    <ModOp Type="merge" Path="//QueueConfiguration">
+    <ModOp Type="merge"
+           Path="//QueueConfiguration">
         <ProcessingQueueParallelCount>1000</ProcessingQueueParallelCount>
     </ModOp>
 </ModOps>

@@ -1,6 +1,8 @@
 <ModOps>
-    <!-- Increased Palace Modules-->
-    <ModOp Type="merge" GUID='249947' Path="/Values/Palace">
+    <!-- Increased Palace Modules -->
+    <ModOp Type="merge"
+           GUID="249947"
+           Path="/Values/Palace">
         <AdditionalModulesForEachAdditionalCompanyLevelHigherMax>50</AdditionalModulesForEachAdditionalCompanyLevelHigherMax>
         <ModulesForCompanyLevelSetup>
             <Item>

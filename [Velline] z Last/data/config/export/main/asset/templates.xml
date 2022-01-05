@@ -1,5 +1,6 @@
 <ModOps>
-    <ModOp Type="merge" Path="//Craftable">
+    <ModOp Type="merge"
+           Path="//Craftable">
         <CraftingTime>60</CraftingTime>
     </ModOp>
 </ModOps>

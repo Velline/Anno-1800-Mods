@@ -1,0 +1,4 @@
+<ModOps>
+    <ModOp Type="remove"
+           Path="//Values/Factory7/NeededFertility" />
+</ModOps>

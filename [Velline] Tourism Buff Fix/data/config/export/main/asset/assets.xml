@@ -1,5 +1,7 @@
 <ModOps>
-    <ModOp Type="merge" GUID="133929,133934,133935,133936,133937" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <ModOp Type="merge"
+           GUID="133929,133934,133935,133936,133937"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>1000</AdditionalSupply>

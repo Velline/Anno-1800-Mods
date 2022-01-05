@@ -1,34 +1,45 @@
 <ModOps>
-    <!-- Warehouse II (Old World)-->
-    <ModOp Type="merge" Path="//QueueConfiguration">
+    <!-- Warehouse II (Old World) -->
+    <ModOp Type="merge"
+           Path="//QueueConfiguration">
         <ProcessingQueueParallelCount>1000</ProcessingQueueParallelCount>
     </ModOp>
-    <!-- Kontor Storage-->
-    <ModOp Type="add" GUID='1010517' Path="/Values">
+    <!-- Kontor Storage -->
+    <ModOp Type="add"
+           GUID="1010517"
+           Path="/Values">
         <Warehouse>
             <WarehouseStorage>
                 <StorageMax>100000000</StorageMax>
             </WarehouseStorage>
         </Warehouse>
     </ModOp>
-    <ModOp Type="merge" GUID='1010540' Path="/Values/Warehouse/WarehouseStorage">
+    <ModOp Type="merge"
+           GUID="1010540"
+           Path="/Values/Warehouse/WarehouseStorage">
         <StorageMax>100000000</StorageMax>
     </ModOp>
-    <ModOp Type="merge" GUID='100510,100514' Path="/Values/">
+    <ModOp Type="merge"
+           GUID="100510,100514"
+           Path="/Values/">
         <Warehouse>
             <WarehouseStorage>
                 <StorageMax>200000000</StorageMax>
             </WarehouseStorage>
         </Warehouse>
     </ModOp>
-    <ModOp Type="merge" GUID='100511,100515' Path="/Values/">
+    <ModOp Type="merge"
+           GUID="100511,100515"
+           Path="/Values/">
         <Warehouse>
             <WarehouseStorage>
                 <StorageMax>400000000</StorageMax>
             </WarehouseStorage>
         </Warehouse>
     </ModOp>
-    <ModOp Type="merge" GUID='269867,269879' Path="/Values/">
+    <ModOp Type="merge"
+           GUID="269867,269879"
+           Path="/Values/">
         <Warehouse>
             <WarehouseStorage>
                 <StorageMax>800000000</StorageMax>

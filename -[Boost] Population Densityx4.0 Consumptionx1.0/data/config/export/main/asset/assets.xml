@@ -1,10 +1,14 @@
 <?xml version="1.0"?>
 <ModOps>
-    <!--Old World Farmers-->
-    <ModOp Type="merge" GUID="1010343" Path="/Values/Residence7">
+    <!-- Old World Farmers -->
+    <ModOp Type="merge"
+           GUID="1010343"
+           Path="/Values/Residence7">
         <ResidentMax>200</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000000"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>100</SupplyWeight>
@@ -41,11 +45,15 @@
             <NoWeightPopulationCount>149</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Old World Workers-->
-    <ModOp Type="merge" GUID="1010344" Path="/Values/Residence7">
+    <!-- Old World Workers -->
+    <ModOp Type="merge"
+           GUID="1010344"
+           Path="/Values/Residence7">
         <ResidentMax>400</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000001"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>200</SupplyWeight>
@@ -117,11 +125,15 @@
             <NoWeightPopulationCount>749</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Old World Artisans-->
-    <ModOp Type="merge" GUID="1010345" Path="/Values/Residence7">
+    <!-- Old World Artisans -->
+    <ModOp Type="merge"
+           GUID="1010345"
+           Path="/Values/Residence7">
         <ResidentMax>600</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000002"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>1010238</Product>
             <Amount>0.01333334</Amount>
@@ -199,11 +211,15 @@
             <NoWeightPopulationCount>1499</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Old World Engineers-->
-    <ModOp Type="merge" GUID="1010346" Path="/Values/Residence7">
+    <!-- Old World Engineers -->
+    <ModOp Type="merge"
+           GUID="1010346"
+           Path="/Values/Residence7">
         <ResidentMax>800</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000003"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>1010217</Product>
             <Amount>0.0068376</Amount>
@@ -290,11 +306,15 @@
             <NoWeightPopulationCount>2999</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Old World Investors-->
-    <ModOp Type="merge" GUID="1010347" Path="/Values/Residence7">
+    <!-- Old World Investors -->
+    <ModOp Type="merge"
+           GUID="1010347"
+           Path="/Values/Residence7">
         <ResidentMax>1000</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000004"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120030</Product>
             <Amount>0.00592592</Amount>
@@ -389,11 +409,15 @@
             <NoWeightPopulationCount>4999</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--New World Jornaleros-->
-    <ModOp Type="merge" GUID="101254" Path="/Values/Residence7">
+    <!-- New World Jornaleros -->
+    <ModOp Type="merge"
+           GUID="101254"
+           Path="/Values/Residence7">
         <ResidentMax>200</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000005"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>100</SupplyWeight>
@@ -429,11 +453,15 @@
             <NoWeightPopulationCount>299</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--New World Obreros-->
-    <ModOp Type="merge" GUID="101255" Path="/Values/Residence7">
+    <!-- New World Obreros -->
+    <ModOp Type="merge"
+           GUID="101255"
+           Path="/Values/Residence7">
         <ResidentMax>400</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="15000006"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>200</SupplyWeight>
@@ -515,11 +543,15 @@
             <NoWeightPopulationCount>999</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Arctic Explorers-->
-    <ModOp Type="merge" GUID="112091" Path="/Values/Residence7">
+    <!-- Arctic Explorers -->
+    <ModOp Type="merge"
+           GUID="112091"
+           Path="/Values/Residence7">
         <ResidentMax>200</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="112642"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>114890</Product>
             <SupplyWeight>70</SupplyWeight>
@@ -562,11 +594,15 @@
             <NoWeightPopulationCount>499</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Arctic Technicians-->
-    <ModOp Type="merge" GUID="112652" Path="/Values/Residence7">
+    <!-- Arctic Technicians -->
+    <ModOp Type="merge"
+           GUID="112652"
+           Path="/Values/Residence7">
         <ResidentMax>400</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="112643"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>114890</Product>
             <SupplyWeight>70</SupplyWeight>
@@ -640,11 +676,15 @@
             <NoWeightPopulationCount>749</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Enbesa Sheperds-->
-    <ModOp Type="merge" GUID="114436" Path="/Values/Residence7">
+    <!-- Enbesa Sheperds -->
+    <ModOp Type="merge"
+           GUID="114436"
+           Path="/Values/Residence7">
         <ResidentMax>200</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="114329"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>50</SupplyWeight>
@@ -688,11 +728,15 @@
             <NoWeightPopulationCount>299</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Enbesa Elders-->
-    <ModOp Type="merge" GUID="114437" Path="/Values/Residence7">
+    <!-- Enbesa Elders -->
+    <ModOp Type="merge"
+           GUID="114437"
+           Path="/Values/Residence7">
         <ResidentMax>400</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="114330"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>120020</Product>
             <SupplyWeight>50</SupplyWeight>
@@ -786,11 +830,15 @@
             <NoWeightPopulationCount>999</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Scholar Residence-->
-    <ModOp Type="merge" GUID="114445" Path="/Values/Residence7">
+    <!-- Scholar Residence -->
+    <ModOp Type="merge"
+           GUID="114445"
+           Path="/Values/Residence7">
         <ResidentMax>2400</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="118745"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>1010353</Product>
             <SupplyWeight>330</SupplyWeight>
@@ -897,11 +945,15 @@
             </AdditionalUnlockRequirement>
         </Item>
     </ModOp>
-    <!--Tourists Hotel-->
-    <ModOp Type="merge" GUID="601445" Path="/Values/Residence7">
+    <!-- Tourists Hotel -->
+    <ModOp Type="merge"
+           GUID="601445"
+           Path="/Values/Residence7">
         <ResidentMax>10000</ResidentMax>
     </ModOp>
-    <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs">
+    <ModOp Type="merge"
+           GUID="601379"
+           Path="/Values/PopulationLevel7/PopulationInputs">
         <Item>
             <Product>133891</Product>
             <SupplyWeight>2000</SupplyWeight>
@@ -1066,9 +1118,11 @@
             <NoWeightPopulationCount>1999</NoWeightPopulationCount>
         </Item>
     </ModOp>
-    <!--Town Hall Items with Bonus Residents attribute-->
-    <!--Aesop, the Fabled Storyteller-->
-    <ModOp Type="merge" GUID="125132" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Town Hall Items with Bonus Residents attribute -->
+    <!-- Aesop, the Fabled Storyteller -->
+    <ModOp Type="merge"
+           GUID="125132"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>120020</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1078,8 +1132,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Amadi Ilga, Ketema's Chief Civil Engineer-->
-    <ModOp Type="merge" GUID="121004" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Amadi Ilga, Ketema's Chief Civil Engineer -->
+    <ModOp Type="merge"
+           GUID="121004"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114401</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1089,8 +1145,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Amazing Fashion Designer-->
-    <ModOp Type="merge" GUID="129022" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Amazing Fashion Designer -->
+    <ModOp Type="merge"
+           GUID="129022"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114430</Product>
             <AdditionalSupply>36</AdditionalSupply>
@@ -1100,8 +1158,10 @@
             <AdditionalSupply>36</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Chief George Doughty, Smouldering Hero-->
-    <ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Chief George Doughty, Smouldering Hero -->
+    <ModOp Type="merge"
+           GUID="190658"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>120020</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1139,8 +1199,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Contraception Regulation-->
-    <ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Contraception Regulation -->
+    <ModOp Type="merge"
+           GUID="191816"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1182,8 +1244,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Dean, the Dean of Deansville University-->
-    <ModOp Type="merge" GUID="125143" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Dean, the Dean of Deansville University -->
+    <ModOp Type="merge"
+           GUID="125143"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010353</Product>
             <AdditionalSupply>96</AdditionalSupply>
@@ -1191,8 +1255,10 @@
             <AdditionalResearch>2</AdditionalResearch>
         </Item>
     </ModOp>
-    <!--Jakob Sokow, The Charitable Banker-->
-    <ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Jakob Sokow, The Charitable Banker -->
+    <ModOp Type="merge"
+           GUID="191579"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>120020</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1230,8 +1296,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Lineman-->
-    <ModOp Type="merge" GUID="125140" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Lineman -->
+    <ModOp Type="merge"
+           GUID="125140"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114431</Product>
             <AdditionalSupply>36</AdditionalSupply>
@@ -1243,8 +1311,10 @@
             <AdditionalHappiness>4</AdditionalHappiness>
         </Item>
     </ModOp>
-    <!--Louis P. Hecate, Arm-Puncturing Pioneer-->
-    <ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Louis P. Hecate, Arm-Puncturing Pioneer -->
+    <ModOp Type="merge"
+           GUID="190724"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>120020</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1282,8 +1352,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Mulatu, The Musical Maestro-->
-    <ModOp Type="merge" GUID="125134" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Mulatu, The Musical Maestro -->
+    <ModOp Type="merge"
+           GUID="125134"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114361</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1293,8 +1365,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Papal Paper of Prenatal Preservation-->
-    <ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Papal Paper of Prenatal Preservation -->
+    <ModOp Type="merge"
+           GUID="191817"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>12</AdditionalSupply>
@@ -1336,8 +1410,10 @@
             <AdditionalSupply>12</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Pietro Jonah Proud, The Philosopher of the Public Good-->
-    <ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Pietro Jonah Proud, The Philosopher of the Public Good -->
+    <ModOp Type="merge"
+           GUID="111180"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>120020</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1384,8 +1460,10 @@
             <AdditionalMoney>1</AdditionalMoney>
         </Item>
     </ModOp>
-    <!--Rabies Vaccine-->
-    <ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Rabies Vaccine -->
+    <ModOp Type="merge"
+           GUID="191912"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1427,8 +1505,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Saint D'Artois, Vision of the Valley-->
-    <ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Saint D'Artois, Vision of the Valley -->
+    <ModOp Type="merge"
+           GUID="190193"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>8</AdditionalSupply>
@@ -1470,8 +1550,10 @@
             <AdditionalSupply>8</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--The Withdrawal Amendment-->
-    <ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- The Withdrawal Amendment -->
+    <ModOp Type="merge"
+           GUID="191815"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1513,8 +1595,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Brioche Royale-->
-    <ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Brioche Royale -->
+    <ModOp Type="merge"
+           GUID="133929"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1552,8 +1636,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Trifle Tower-->
-    <ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Trifle Tower -->
+    <ModOp Type="merge"
+           GUID="133934"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1591,8 +1677,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Lady Marmelade-->
-    <ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Lady Marmelade -->
+    <ModOp Type="merge"
+           GUID="133935"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1630,8 +1718,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Age of Exploration-->
-    <ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Age of Exploration -->
+    <ModOp Type="merge"
+           GUID="133936"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1669,8 +1759,10 @@
             <AdditionalSupply>4</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Homard sur Lit de Terroir-->
-    <ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Homard sur Lit de Terroir -->
+    <ModOp Type="merge"
+           GUID="133937"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010200</Product>
             <AdditionalSupply>4</AdditionalSupply>
@@ -1712,18 +1804,22 @@
             <AdditionalSupply>40</AdditionalSupply>
         </Item>
     </ModOp>
-    <!--Town Hall Items with Bonus Research Points attribute (NOT GU11 READY)-->
-    <!--Associate Professor of Faculty-->
-    <ModOp Type="merge" GUID="125142" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Town Hall Items with Bonus Research Points attribute (NOT GU11 READY) -->
+    <!-- Associate Professor of Faculty -->
+    <ModOp Type="merge"
+           GUID="125142"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>1010353</Product>
             <AdditionalResearch>1</AdditionalResearch>
         </Item>
     </ModOp>
-    <!--Dean, the Dean of Deansville University-->
-    <!--Already fixed above-->
-    <!--Djimon the Melancholic Expatriate-->
-    <ModOp Type="merge" GUID="125144" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Dean, the Dean of Deansville University -->
+    <!-- Already fixed above -->
+    <!-- Djimon the Melancholic Expatriate -->
+    <ModOp Type="merge"
+           GUID="125144"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114390</Product>
             <AdditionalResearch>1</AdditionalResearch>
@@ -1741,8 +1837,10 @@
             <AdditionalResearch>1</AdditionalResearch>
         </Item>
     </ModOp>
-    <!--Kaldi, Infuser Of Teas-->
-    <ModOp Type="merge" GUID="125114" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+    <!-- Kaldi, Infuser Of Teas -->
+    <ModOp Type="merge"
+           GUID="125114"
+           Path="/Values/PopulationUpgrade/InputBenefitModifier">
         <Item>
             <Product>114390</Product>
             <AdditionalHappiness>10</AdditionalHappiness>

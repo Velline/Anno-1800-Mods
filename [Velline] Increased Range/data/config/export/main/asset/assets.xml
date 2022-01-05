@@ -1,11 +1,15 @@
 <ModOps>
-    <!-- Public Services-->
-    <ModOp Type="merge" GUID='1010358,1010360,1010365,1010359,1010361,1010362,1010364,112128,101257,101258,101259,114889,112684,114518,114519,114520,118736' Path="/Values/PublicService">
+    <!-- Public Services -->
+    <ModOp Type="merge"
+           GUID="1010358,1010360,1010365,1010359,1010361,1010362,1010364,112128,101257,101258,101259,114889,112684,114518,114519,114520,118736"
+           Path="/Values/PublicService">
         <FullSatisfactionDistance>250</FullSatisfactionDistance>
         <NoSatisfactionDistance>250</NoSatisfactionDistance>
     </ModOp>
-    <!--Marketplace (Old World)-->
-    <ModOp Type="merge" GUID='1010372' Path="/Values">
+    <!-- Marketplace (Old World) -->
+    <ModOp Type="merge"
+           GUID="1010372"
+           Path="/Values">
         <Market>
             <FullSupplyDistance>250</FullSupplyDistance>
             <NoSupplyDistance>250</NoSupplyDistance>
@@ -15,41 +19,51 @@
             <NoSatisfactionDistance>250</NoSatisfactionDistance>
         </PublicService>
     </ModOp>
-    <!-- Electricity-->
-    <ModOp Type="merge" GUID='100780,117547' Path="/Values/Powerplant">
+    <!-- Electricity -->
+    <ModOp Type="merge"
+           GUID="100780,117547"
+           Path="/Values/Powerplant">
         <IndustrializationDistance>1200000</IndustrializationDistance>
     </ModOp>
-    <ModOp Type="merge" GUID='117547' Path="/Values/PublicService">
+    <ModOp Type="merge"
+           GUID="117547"
+           Path="/Values/PublicService">
         <FullSatisfactionDistance>1200000</FullSatisfactionDistance>
         <NoSatisfactionDistance>1200000</NoSatisfactionDistance>
     </ModOp>
-    <!-- Street-->
-    <ModOp Type="merge" GUID='1010035' Path="/Values/Street">
+    <!-- Street -->
+    <ModOp Type="merge"
+           GUID="1010035"
+           Path="/Values/Street">
         <SpeedFactor>500</SpeedFactor>
     </ModOp>
-    <ModOp Type="replace" GUID='1010035' Path="/Values/Cost/Costs">
-                            <Item>
-                              <Ingredient>1010017</Ingredient>
-                              <Amount>50</Amount>
-                            </Item>
-                            <Item>
-                              <Ingredient>1010196</Ingredient>
-                            </Item>
-                            <Item>
-                              <Ingredient>1010205</Ingredient>
-                              <Amount>1</Amount>
-                            </Item>
-                            <Item>
-                              <Ingredient>1010218</Ingredient>
-                            </Item>
-                            <Item>
-                              <Ingredient>1010207</Ingredient>
-                            </Item>
-                            <Item>
-                              <Ingredient>1010202</Ingredient>
-                            </Item>
+    <ModOp Type="replace"
+           GUID="1010035"
+           Path="/Values/Cost/Costs">
+        <Item>
+            <Ingredient>1010017</Ingredient>
+            <Amount>50</Amount>
+        </Item>
+        <Item>
+            <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+            <Ingredient>1010205</Ingredient>
+            <Amount>1</Amount>
+        </Item>
+        <Item>
+            <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+            <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+            <Ingredient>1010202</Ingredient>
+        </Item>
     </ModOp>
-    <ModOp Type="add" GUID='1000178' Path="/Values/Street">
+    <ModOp Type="add"
+           GUID="1000178"
+           Path="/Values/Street">
         <SpeedFactor>2</SpeedFactor>
     </ModOp>
 </ModOps>

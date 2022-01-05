@@ -1,17 +1,21 @@
 <ModOps>
-    <ModOp Type="merge" Path="//FreeSpaceSpawn">
+    <ModOp Type="merge"
+           Path="//FreeSpaceSpawn">
         <SearchDistanceScale>20</SearchDistanceScale>
     </ModOp>
-    <ModOp Type="merge" Path="//IncidentResolverUnit">
+    <ModOp Type="merge"
+           Path="//IncidentResolverUnit">
         <ResolverOperatingDistance>1200000</ResolverOperatingDistance>
         <ResolverMovementSpeed>4</ResolverMovementSpeed>
     </ModOp>
-    <ModOp Type="merge" Path="//PublicService">
+    <ModOp Type="merge"
+           Path="//PublicService">
         <FullSatisfactionDistance>250</FullSatisfactionDistance>
         <NoSatisfactionDistance>250</NoSatisfactionDistance>
     </ModOp>
-    <ModOp Type="merge" Path="//Market">
+    <ModOp Type="merge"
+           Path="//Market">
         <FullSupplyDistance>250</FullSupplyDistance>
-          <NoSupplyDistance>250</NoSupplyDistance>
+        <NoSupplyDistance>250</NoSupplyDistance>
     </ModOp>
 </ModOps>

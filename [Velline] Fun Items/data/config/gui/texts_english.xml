@@ -1,839 +1,979 @@
 <ModOps>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666001</GUID>
             <Text>Dwayne "The Rock" Johnson</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666002</GUID>
             <Text>Who needs clay if you can have "The Rock"?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666004</GUID>
             <Text>Gondors Tree</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666005</GUID>
             <Text>Gondors legendary tree will provide you infinite amounts of wood.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666007</GUID>
             <Text>Statue of Joshamee Gibbs</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666008</GUID>
             <Text>Besides taking care of your navigation, Master Gibbs also takes care of your sails!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666010</GUID>
             <Text>thyssenkrupp</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666011</GUID>
             <Text>The steel made by thyssenkrupp proven it's quality multiple times already. As an investor of thyssenkrupp you're allowed to use their technologies and make Steel Beams for free.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666013</GUID>
             <Text>Captain Jack Sparrow</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666014</GUID>
             <Text>Argh, I'm a pirate.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666016</GUID>
             <Text>VEKA</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666017</GUID>
             <Text>Security windows requiered?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666019</GUID>
             <Text>HeidelbergCement</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666020</GUID>
             <Text>Made in Germany</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666022</GUID>
             <Text>Mercedes</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666023</GUID>
             <Text>Brum brum</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666025</GUID>
             <Text>Rolex</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666026</GUID>
             <Text>Time tick ticks away.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666028</GUID>
             <Text>Thomas Edison</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666029</GUID>
             <Text>"Genius is one percent inspiration and ninety-nine percent perspiration." Thomas A. Edison</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666031</GUID>
             <Text>Porsche</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666032</GUID>
             <Text>"It’s not technology that makes history, but the people who invented it." Ferdinand Porsche</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666034</GUID>
             <Text>Elisha Gray</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666035</GUID>
             <Text>Ring, ring, ring.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666037</GUID>
             <Text>Staib</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666038</GUID>
             <Text>Bread mass production: Check!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666040</GUID>
             <Text>The Punisher</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666041</GUID>
             <Text>Locked and loaded!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666043</GUID>
             <Text>Prada</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666044</GUID>
             <Text>Programming Rhythms And Dancing Again</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666046</GUID>
             <Text>Red Bull Extreme Sports</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666047</GUID>
             <Text>Red Bull gives you wings!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666049</GUID>
             <Text>Nike</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666050</GUID>
             <Text>Just Do It</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666052</GUID>
             <Text>Gold Ochsen</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666053</GUID>
             <Text>ULMS FLÜSSIGES GOLD</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666055</GUID>
             <Text>General Iroh</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666056</GUID>
             <Text>Let's have a cup of tea.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666058</GUID>
             <Text>Maggi</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666059</GUID>
             <Text>Nom nom nom</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666061</GUID>
             <Text>Hair Dryer</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666062</GUID>
             <Text>BRRRRRRRRRRRRRRRRRRRRRRRR</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666064</GUID>
             <Text>Tutankhamun</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666065</GUID>
             <Text>Is there anyone who could better care about your production chain than an egypt pharaoh?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666067</GUID>
             <Text>Dom Pérignon</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666068</GUID>
             <Text>Many people believe that Dom Pérignon is the inventor of champagne. Even tho, that is not true, he's well known for his champagne and now he serves in your factories.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666070</GUID>
             <Text>Willy Wonka</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666071</GUID>
             <Text>Willy Wonka had a lot of success in the hard chocolate buisness. Now he stands by your side to advise you.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666073</GUID>
             <Text>Cuban Cigar</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666074</GUID>
             <Text>A pirate heard out that you found a recipe for cuban cigars. He brought everything you need to produce them, for some coins of course.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666076</GUID>
             <Text>Senseo Coffee Machine</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666077</GUID>
             <Text>Philips and Douwe Egberts made that masterpiece only for you.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666079</GUID>
             <Text>Beef Jerky</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666080</GUID>
             <Text>You found a new method of making beef jerky. Now you can make infinte amounts.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666082</GUID>
             <Text>Dolce and Gabbana</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666083</GUID>
             <Text>With your investions into Dolce and Gabbana you earned access to their products. On top of that you can now make cloths for free.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666085</GUID>
             <Text>Gucci</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666086</GUID>
             <Text>You gucci?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666088</GUID>
             <Text>Chiquita Brands International</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666089</GUID>
             <Text>Due to your buisness relationships you gain free bananas.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666091</GUID>
             <Text>Levis</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666092</GUID>
             <Text>Guranteed quality</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666094</GUID>
             <Text>Nord Stream 2</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666095</GUID>
             <Text>The highly controversial Nord Stream 2 was finished and provides you with unlimited amounts of gas.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666097</GUID>
             <Text>Santa Claus</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666098</GUID>
             <Text>Free gifts!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666100</GUID>
             <Text>Tiffany and Co</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666101</GUID>
             <Text>Since 1837 in New York!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666103</GUID>
             <Text>Hacksmith Industries</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666104</GUID>
             <Text>We can do more than copy Marcel products!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666106</GUID>
             <Text>Humphry Davy</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666107</GUID>
             <Text>Who could make better light bulbs than their inventor?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666109</GUID>
             <Text>New York Times</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666110</GUID>
             <Text>The true!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666112</GUID>
             <Text>Abraham Pineo Gesner</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666113</GUID>
             <Text>The inventor of oil lamps.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666115</GUID>
             <Text>Jack Wolfskin</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666116</GUID>
             <Text>In need for some warm cloths?</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666118</GUID>
             <Text>Knorr</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666119</GUID>
             <Text>That's how you make instant dishes.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666121</GUID>
             <Text>Gandalf</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666122</GUID>
             <Text>He'll kill even the largest Balrok.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666124</GUID>
             <Text>Adidas</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666125</GUID>
             <Text>ADIDAS IS ALL IN</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666127</GUID>
             <Text>Bacardi</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666128</GUID>
             <Text>"Live like you mean it." Bacardi Rum</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666130</GUID>
             <Text>Singer</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666131</GUID>
             <Text>Over 160 Years of Trust Worldwide</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666133</GUID>
             <Text>EFAG GmbH and Co. KG</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666134</GUID>
             <Text>???</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666136</GUID>
             <Text>Weißwurst</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666137</GUID>
             <Text>The original from Bavaria.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666139</GUID>
             <Text>Kelty</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666140</GUID>
             <Text>zZzZzZzZzZzZ</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666142</GUID>
             <Text>Nivea Soap</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666143</GUID>
             <Text>Get on my level</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666145</GUID>
             <Text>Nerd Glasses</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666146</GUID>
             <Text>Nerdy</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666148</GUID>
             <Text>Capital Bra</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666149</GUID>
             <Text>Lelelele</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666151</GUID>
             <Text>Grand Turkish Bazaar</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666152</GUID>
             <Text>Serious buisness</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666154</GUID>
             <Text>Tortilla</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666155</GUID>
             <Text>Imported from Mexico.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666157</GUID>
             <Text>Lobster</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666158</GUID>
             <Text>He is still moving!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666160</GUID>
             <Text>Donald Trump</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666161</GUID>
             <Text>We will build a great wall along the southern border and Mexico will pay for the wall!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666163</GUID>
             <Text>Pope</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666164</GUID>
             <Text>Amen</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666166</GUID>
             <Text>China</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666167</GUID>
             <Text>We can take one more!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666169</GUID>
             <Text>Stonehenge</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666170</GUID>
             <Text>Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles west of Amesbury.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666172</GUID>
             <Text>BioNTech SE</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666173</GUID>
             <Text>FUCK CORONA</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666175</GUID>
             <Text>Nina</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666176</GUID>
             <Text>Meow</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666178</GUID>
             <Text>Nina (Arctic)</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666179</GUID>
             <Text>Meow</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666181</GUID>
             <Text>Firefighter Truck</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666182</GUID>
             <Text>Your fire fighters now have a truck to work even more efficent.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666184</GUID>
             <Text>Police Helicopter</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666185</GUID>
             <Text>Due to their new helicopter, your police will now shutdown every riot, even if it gets bloody.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666187</GUID>
             <Text>Yuumi</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666188</GUID>
             <Text>We got the Zoomies</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666190</GUID>
             <Text>Homer Simpson</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666191</GUID>
             <Text>Homer Simpson wants to go fishing with you. He brings his bug zapper.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666193</GUID>
             <Text>Michael Jackson</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666194</GUID>
             <Text>Michael Jackson is in your city and visitors come in huge amounts to see him.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666196</GUID>
             <Text>Eddy</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666197</GUID>
             <Text>Es gab einmal ein Tier, das sprang von dort nach hier, dann gab ich ihm ein Bier und es war glücklich wie wir.</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666199</GUID>
             <Text>Captain Kevin</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666200</GUID>
             <Text>Ratatatatatatatatatatatatatatata</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666202</GUID>
             <Text>Netflix</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>333666203</GUID>
             <Text>You disabled Netflix for your people to increase your workforce. The might be mad at you!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>800000000</GUID>
             <Text>Ultimate Working Nina</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>800000001</GUID>
             <Text>Nina goes brrrrrrrr!</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>800000003</GUID>
             <Text>Ultimative Eating Nina</Text>
         </Text>
     </ModOp>
-    <ModOp Type="add" Path="/TextExport/Texts">
+    <ModOp Type="add"
+           Path="/TextExport/Texts">
         <Text>
             <GUID>800000004</GUID>
             <Text>It's a miracle something is left over!</Text>

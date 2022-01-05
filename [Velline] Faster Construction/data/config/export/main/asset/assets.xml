@@ -1,6 +1,7 @@
 <ModOps>
-    <!-- Time it takes to get new residents-->
-    <ModOp Type="merge" Path="//Monument">
+    <!-- Time it takes to get new residents -->
+    <ModOp Type="merge"
+           Path="//Monument">
         <MicrophaseCount>0</MicrophaseCount>
     </ModOp>
 </ModOps>

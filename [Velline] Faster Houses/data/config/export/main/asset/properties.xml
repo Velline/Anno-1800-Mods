@@ -1,21 +1,23 @@
 <ModOps>
-        <ModOp Type="merge" Path="//Residence7">
-          <MoveInMs>1</MoveInMs>
-          <MoveOutMs>100000</MoveOutMs>
-          <MoveRandomMs>1</MoveRandomMs>
+    <ModOp Type="merge"
+           Path="//Residence7">
+        <MoveInMs>1</MoveInMs>
+        <MoveOutMs>100000</MoveOutMs>
+        <MoveRandomMs>1</MoveRandomMs>
     </ModOp>
-    <ModOp Type="merge" Path="//PopulationLevel7">
-    <Satisfaction>
+    <ModOp Type="merge"
+           Path="//PopulationLevel7">
+        <Satisfaction>
             <TotalPointCount>3</TotalPointCount>
             <TimeInterval>1</TimeInterval>
-          </Satisfaction>
-          <ConsumptionNeedSatisfaction>
+        </Satisfaction>
+        <ConsumptionNeedSatisfaction>
             <TotalPointCount>20</TotalPointCount>
             <TimeMultiplier>0.1</TimeMultiplier>
-          </ConsumptionNeedSatisfaction>
-          <PublicNeedSatisfaction>
+        </ConsumptionNeedSatisfaction>
+        <PublicNeedSatisfaction>
             <TotalPointCount>20</TotalPointCount>
             <TimeMultiplier>0.1</TimeMultiplier>
-          </PublicNeedSatisfaction>
+        </PublicNeedSatisfaction>
     </ModOp>
 </ModOps>

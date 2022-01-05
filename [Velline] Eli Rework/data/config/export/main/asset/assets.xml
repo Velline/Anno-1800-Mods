@@ -1,6 +1,8 @@
 <ModOps>
-    <!-- Eli Items-->
-    <ModOp Type="replace" GUID='190774' Path="/Values/RewardPool">
+    <!-- Eli Items -->
+    <ModOp Type="replace"
+           GUID="190774"
+           Path="/Values/RewardPool">
         <RewardPool>
             <ItemsPool>
                 <Item>
@@ -291,27 +293,39 @@
             <IgnoreUnlocks>1</IgnoreUnlocks>
         </RewardPool>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/EarlyGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/EarlyGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/EarlyMidGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/EarlyMidGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/MidGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/MidGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/LateMidGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/LateMidGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/LateGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/LateGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="merge" GUID='46' Path="/Values/Trader/Progression/EndGame">
+    <ModOp Type="merge"
+           GUID="46"
+           Path="/Values/Trader/Progression/EndGame">
         <OfferingItems>190774</OfferingItems>
         <MaxItemsToOffer>12</MaxItemsToOffer>
     </ModOp>

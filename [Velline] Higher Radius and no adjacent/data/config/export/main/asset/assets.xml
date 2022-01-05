@@ -1,5 +1,6 @@
 <ModOps>
-  <ModOp Type="replace" Path="//ModuleBuildRadius">
-    <ModuleBuildRadius>300</ModuleBuildRadius>	
-  </ModOp>
+    <ModOp Type="replace"
+           Path="//ModuleBuildRadius">
+        <ModuleBuildRadius>300</ModuleBuildRadius>
+    </ModOp>
 </ModOps>

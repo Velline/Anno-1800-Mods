@@ -1,9 +1,11 @@
 <ModOps>
-    <ModOp Type="merge" Path="//PublicService">
+    <ModOp Type="merge"
+           Path="//PublicService">
         <FullSatisfactionDistance>1200000</FullSatisfactionDistance>
         <NoSatisfactionDistance>1200000</NoSatisfactionDistance>
     </ModOp>
-    <ModOp Type="merge" Path="//HeatProvider">
+    <ModOp Type="merge"
+           Path="//HeatProvider">
         <HeatRange>2000</HeatRange>
     </ModOp>
 </ModOps>
