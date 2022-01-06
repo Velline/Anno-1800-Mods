@@ -1,0 +1,22 @@
+<ModOps>
+    <!-- Increase the amount of visiotrs you can have (NEEDS TESTING) -->
+    <ModOp Type="replace"
+           Path="//VisitorTiers">
+        <VisitorTiers>
+            <Item>
+                <VisitorCapacity>50000</VisitorCapacity>
+                <VisitorShip>100432</VisitorShip>
+            </Item>
+            <Item>
+                <VisitorCapacity>10000</VisitorCapacity>
+                <VisitorShip>100433</VisitorShip>
+                <Tier>1</Tier>
+            </Item>
+            <Item>
+                <VisitorCapacity>1000000</VisitorCapacity>
+                <VisitorShip>100434</VisitorShip>
+                <Tier>2</Tier>
+            </Item>
+        </VisitorTiers>
+    </ModOp>
+</ModOps>

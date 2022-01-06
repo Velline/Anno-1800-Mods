@@ -1,0 +1,7 @@
+<ModOps>
+    <!-- Change the amount of negative moeny you need to have before being defeat -->
+    <ModOp Type="merge"
+           Path="//Bankruptcy">
+        <BankruptcyThreshold>-900000000</BankruptcyThreshold>
+    </ModOp>
+</ModOps>
