@@ -5,7 +5,7 @@
     </ModOp>
     <ModOp Type="replace"
            Path="//FactoryInputs/Item/Amount">
-        <Amount>25</Amount>
+        <Amount>2</Amount>
     </ModOp>
     <ModOp Type="replace"
            Path="//FactoryOutputs/Item/StorageAmount">
@@ -13,15 +13,15 @@
     </ModOp>
     <ModOp Type="replace"
            Path="//FactoryOutputs/Item/Amount">
-        <Amount>25</Amount>
+        <Amount>2</Amount>
     </ModOp>
     <ModOp Type="add"
            Path="//FactoryBase">
-        <CycleTime>30</CycleTime>
+        <CycleTime>12</CycleTime>
     </ModOp>
     <ModOp Type="replace"
            Path="//FactoryBase/CycleTime">
-        <CycleTime>30</CycleTime>
+        <CycleTime>12</CycleTime>
     </ModOp>
     <ModOp Type="merge"
            GUID="114751"
@@ -43,11 +43,11 @@
             <UnloadingTime>1</UnloadingTime>
         </ProcessingTimes>
     </ModOp>
-    <ModOp Type="merge"
+    <!-- <ModOp Type="merge"
            GUID="120025"
            Path="/Values/Transporter7">
         <TransporterSpeed>10</TransporterSpeed>
-    </ModOp>
+    </ModOp> -->
     <!-- Fixes for mines and buildings that normally have an advantage -->
     <!-- Old World Mines -->
     <ModOp Type="merge"
