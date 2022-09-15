@@ -10,7 +10,7 @@ This is requiered for Eli Rework and Fun Items to work.
 
 Makes you be able to have a much larger palace than usual.
 
-### Better Ship
+### Better Ships
 
 Increased speed and capacity for ships. (Note: This includes Airships, however most war ships are unaffected by this)
 
